@@ -50,7 +50,8 @@ public class MapperScannerBeanDefinitionParser implements BeanDefinitionParser {
   private static String ATTRIBUTE_NAME_GENERATOR = "name-generator";
   private static String ATTRIBUTE_TEMPLATE_REF = "template-ref";
   private static String ATTRIBUTE_FACTORY_REF = "factory-ref";
-
+private static String ATTRIBUTE_FACTORY_REF_1 = "factory-ref1";
+  private static String ATTRIBUTE_FACTORY_REF_2 = "factory-ref2";
   /**
    * {@inheritDoc}
    */
